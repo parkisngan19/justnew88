@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Nhà Cái New88
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`New88 <https://justnew88.com/>`_ là cái tên sáng giá trong thị trường cá cược trực tuyến, nổi bật với dịch vụ uy tín và kho trò chơi đa dạng. Nhà cái mang đến trải nghiệm hoàn hảo với giao diện hiện đại, tỷ lệ cược hấp dẫn và bảo mật tuyệt đối. Bên cạnh đó, các chương trình khuyến mãi phong phú chính là lý do khiến New88 trở thành điểm đến lý tưởng của cộng đồng yêu thích cá cược.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thương hiệu hàng đầu NEW88
 
-.. note::
+Website: https://justnew88.com/ 
 
-   This project is under active development.
+Email: justnew88@gmail.com
 
-Contents
---------
+Địa chỉ: 95/201 Châu Vĩnh Tế, Phường 12, Tân Bình, Hồ Chí Minh, Việt Nam
 
-.. toctree::
+Số Điện thoại: 0901234147
 
-   usage
-   api
+Từ khoá tìm kiếm: #new88 #new 88 #nhà_cái_new88 #trang_chủ_new88 #link_vào_new88
